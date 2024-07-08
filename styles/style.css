@@ -34,7 +34,6 @@ body
     gap: 80px;
     justify-content: center;
     align-items: center;
-    margin: 0 10px;
 }
 
 .header__menu__link
@@ -170,6 +169,7 @@ body
     .header
     {
         padding: 10%;
+        margin: 0 10px;
     }
 
     .presentacion
